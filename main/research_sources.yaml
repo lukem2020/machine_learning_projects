@@ -1,0 +1,84 @@
+tiers:
+  tier1_registry:
+    - name: BizPortal / CIPC
+      urls:
+        - https://bizportal.gov.za/
+        - https://eservices.cipc.co.za/
+      fields: [Country, Name of company]
+      access: login_required
+  tier1_web:
+    - name: Company website
+      fetch_paths: [/about, /team, /contact, /]
+      fields: [Sector, Web address link, What company does, Contact Staff member, Contact detail]
+    - name: LinkedIn ZA
+      url: https://za.linkedin.com/company
+      fields: [Sector, Company size, What company does, Contact Staff member, Role in company, Profile in company]
+  tier2_sector:
+    - name: Bioeconomy SA Portal
+      url: https://bioeconomy.co.za/ecosystem-organisations
+      fields: [Sector, What company does]
+    - name: OneBio Innovation Centre
+      urls:
+        - https://onebio.africa/
+        - https://www.tia.org.za/technology-platforms/onebio/
+    - name: CPGR / Diplomics
+      url: https://www.cpgr.org.za/
+    - name: University Technology Fund
+      url: https://utfund.co.za/
+    - name: Shizune investor DB
+      url: https://shizune.co/investors/biotech-investors-south-africa
+  tier3_funding:
+    - name: Crunchbase
+      url: https://www.crunchbase.com/
+      fields: [Company revenue, Company size]
+    - name: Tracxn
+      url: https://tracxn.com/
+    - name: SA business press
+      domains: [businesslive.co.za, mg.co.za, itweb.co.za]
+      fields: [Company revenue]
+
+field_mapping:
+  Name of company: [cipc, website, linkedin]
+  Country: [cipc, linkedin, co.za_domain]
+  Sector: [linkedin, website, bioeconomy_sa]
+  Web address link: [linkedin, web_search]
+  What company does: [website_about, linkedin]
+  Company size: [linkedin, tracxn]
+  Company revenue: [press, crunchbase]
+  Contact Staff member: [website_team, linkedin]
+  Role in company: [linkedin, website_team]
+  Profile in company: [linkedin]
+  Contact detail: [website_contact]
+
+query_templates:
+  enrich:
+    - '"{company}" site:za.linkedin.com/company'
+    - '"{company}" CIPC registration South Africa'
+    - '"{company}" "South Africa" site:{domain}'
+    - '"{company}" funding OR revenue site:businesslive.co.za OR site:itweb.co.za'
+  discover:
+    - 'biotechnology OR genomics OR diagnostics companies "South Africa" 2024 2025'
+    - '"life sciences" startup South Africa site:bioeconomy.co.za'
+    - 'university spinout biotech South Africa site:utfund.co.za'
+    - '"South Africa" biotech site:za.linkedin.com/company'
+
+single_pass_fetch:
+  max_rounds: 4
+  order:
+    - resolve_identity
+    - fetch_website
+    - fetch_linkedin
+    - gap_fill_p3
+
+locked_columns:
+  - Email sent?
+  - Date initial email sent
+  - Template A/B
+  - respond email?
+  - coffee date?
+  - Follow up after coffee date?
+  - contract stage?
+
+cache:
+  ttl_days: 30
+  path: research_cache.json

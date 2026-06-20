@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "company": "Immobazyme",
+    "action": "discover",
+    "confidence": "high",
+    "sa_validation": "web_confirmed",
+    "sources": [
+      "https://www.immobazyme.com/meet-our-team",
+      "https://www.immobazyme.com/post/immobazyme-raises-r50-million-to-scale-biologics-platform-and-advance-therapeutic-programs"
+    ],
+    "updated_at": "2026-06-20T09:08:38.169559+00:00"
+  },
+  "fields": {
+    "Name of company": {
+      "value": "Immobazyme",
+      "source": "web"
+    },
+    "Country": {
+      "value": "South Africa",
+      "source": "web"
+    },
+    "Sector": {
+      "value": "Biotechnology / Precision Fermentation",
+      "source": "web"
+    },
+    "Web address link": {
+      "value": "https://www.immobazyme.com/",
+      "source": "web"
+    },
+    "What company does": {
+      "value": "Cape Town biotech using precision fermentation for recombinant proteins, growth factors and enzymes; Stellenbosch University spinout advancing therapeutics.",
+      "source": "web"
+    },
+    "Company size": {
+      "value": "18",
+      "source": "both"
+    },
+    "Contact Staff member": {
+      "value": "Dominic Nicholas",
+      "source": "web"
+    },
+    "Role in company": {
+      "value": "Co-founder & CEO",
+      "source": "web"
+    },
+    "Profile in company": {
+      "value": "https://za.linkedin.com/company/immobazyme",
+      "source": "web"
+    },
+    "Contact detail": {
+      "value": "info@immobazyme.com",
+      "source": "web"
+    }
+  }
+}

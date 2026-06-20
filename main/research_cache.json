@@ -1,0 +1,105 @@
+{
+  "hearxgroup": {
+    "researched_at": "2026-06-20T09:08:38.056186+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\hearxgroup.json",
+    "sources_fetched": [
+      "https://za.linkedin.com/company/hearx-group",
+      "https://www.hearxgroup.com/"
+    ]
+  },
+  "resourgenix": {
+    "researched_at": "2026-06-20T09:08:38.063260+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\resourgenix.json",
+    "sources_fetched": [
+      "https://www.resourgenix.com/about-us/",
+      "https://za.linkedin.com/company/resourgenix"
+    ]
+  },
+  "deimoscloud": {
+    "researched_at": "2026-06-20T09:08:38.070469+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\deimoscloud.json",
+    "sources_fetched": [
+      "https://www.deimos.co.za/",
+      "https://za.linkedin.com/company/deimos-cloud"
+    ]
+  },
+  "balancellenergy": {
+    "researched_at": "2026-06-20T09:08:38.078985+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\balancellenergy.json",
+    "sources_fetched": [
+      "https://balancell.com/",
+      "https://www.itweb.co.za/article/r150m-gigafactory-to-catalyse-sas-green-tech-aspirations/VgZeyvJlLdlMdjX9"
+    ]
+  },
+  "evolutionfoodsinternational": {
+    "researched_at": "2026-06-20T09:08:38.087493+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\evolutionfoodsinternational.json",
+    "sources_fetched": [
+      "https://nutrada.com/suppliers/evolution-foods-international-pty-ltd",
+      "https://za.linkedin.com/company/evolution-foods-international-limited"
+    ]
+  },
+  "futuregenlaboratories": {
+    "researched_at": "2026-06-20T09:08:38.096531+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\futuregenlaboratories.json",
+    "sources_fetched": [
+      "https://futuregenlabs.co.za/about-us",
+      "https://futuregenlabs.co.za/"
+    ]
+  },
+  "cpgrdiplomics": {
+    "researched_at": "2026-06-20T09:08:38.106050+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\cpgrdiplomics.json",
+    "sources_fetched": [
+      "https://www.cpgr.org.za/about-us/",
+      "https://www.cpgr.org.za/"
+    ]
+  },
+  "witsuniversitydepartmentofmolecularmedicineandheamatology": {
+    "researched_at": "2026-06-20T09:08:38.117251+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\witsuniversitydepartmentofmolecularmedicineandheamatology.json",
+    "sources_fetched": [
+      "https://www.wits.ac.za/pathology/divisions/molecular-medicine--haematology/"
+    ]
+  },
+  "afrigenbiologicspty": {
+    "researched_at": "2026-06-20T09:08:38.130274+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\afrigenbiologicspty.json",
+    "sources_fetched": [
+      "https://www.afrigen.co.za/about-us-3/",
+      "https://afrigen.co.za/"
+    ]
+  },
+  "nextbiosciences": {
+    "researched_at": "2026-06-20T09:08:38.143901+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\nextbiosciences.json",
+    "sources_fetched": [
+      "https://nextbio.co.za/",
+      "https://www.saprofilemagazine.co.za/business-women/next-biosciences-marks-20-years-of-biotech-innovation/"
+    ]
+  },
+  "inqababiotec": {
+    "researched_at": "2026-06-20T09:08:38.156035+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\inqababiotec.json",
+    "sources_fetched": [
+      "https://inqababiotec.co.za/southern-africa-subsidiary/",
+      "https://za.linkedin.com/company/inqaba-biotec"
+    ]
+  },
+  "azargenbiotechnologies": {
+    "researched_at": "2026-06-20T09:08:38.169059+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\azargenbiotechnologies.json",
+    "sources_fetched": [
+      "https://www.azargen.co.za/",
+      "https://www.sareco.org/profile/azargen-biotechnologies/"
+    ]
+  },
+  "immobazyme": {
+    "researched_at": "2026-06-20T09:08:38.181071+00:00",
+    "dossier_path": "C:\\Users\\User\\Desktop\\Personal\\github\\projects\\leadlist\\database\\dossiers\\immobazyme.json",
+    "sources_fetched": [
+      "https://www.immobazyme.com/meet-our-team",
+      "https://www.immobazyme.com/post/immobazyme-raises-r50-million-to-scale-biologics-platform-and-advance-therapeutic-programs"
+    ]
+  }
+}

@@ -1,0 +1,1062 @@
+{
+  "total_rows": 51,
+  "classifications": [
+    {
+      "company": "HearXGroup",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Resourgenix",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Deimos Cloud",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Carmot Therapeutics (aquired by Roche)",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Balancell Energy",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Evolution Foods International",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Phathom Pharmaceuticals",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "IGM Biosciences",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "CND life sciences",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Ventus therapeutics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Enveda",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Forge biologics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "BioCode",
+      "score": 25,
+      "status": "out_of_scope",
+      "signals": [
+        ".co.za domain"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Foresight",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Acculine",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Elicio Therapeutics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Kyverna Therapeutics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "ECG-Excellence",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Debeut biotech",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Braeburn",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Recora Health",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "ElevateBio",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Heartbeat Health",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Hexagon Bio",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Rayze Bio",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "IntelVasc Inc",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Hemocath",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Cresilon",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Artbio",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Medcura",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Lexeo therapeutics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Genomenon",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Ardelyx",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Octave",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Yemaachi",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "CSL",
+      "score": -50,
+      "status": "out_of_scope",
+      "signals": [
+        "non-SA HQ detected"
+      ],
+      "reject_reason": "Non-SA HQ keywords detected"
+    },
+    {
+      "company": "Legend Biotech",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "ReCode",
+      "score": -50,
+      "status": "out_of_scope",
+      "signals": [
+        "non-SA HQ detected"
+      ],
+      "reject_reason": "Non-SA HQ keywords detected"
+    },
+    {
+      "company": "Wits university: department of molecular medicine and heamatology",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "SA city mentioned",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Centogene",
+      "score": -50,
+      "status": "out_of_scope",
+      "signals": [
+        "non-SA HQ detected"
+      ],
+      "reject_reason": "Non-SA HQ keywords detected"
+    },
+    {
+      "company": "Biosecurity",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Medtech corporation",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Futuregen laboratories",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "CPGR (Diplomics)",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Watchmaker Genomics",
+      "score": -85,
+      "status": "out_of_scope",
+      "signals": [
+        "South Africa mentioned in text",
+        "non-SA HQ detected",
+        "mis-tagged: HQ Boulder, Colorado, USA"
+      ],
+      "reject_reason": "HQ Boulder, Colorado, USA"
+    },
+    {
+      "company": "Afrigen Biologics (Pty) Ltd",
+      "score": 105,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "SA city mentioned",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Next Biosciences",
+      "score": 105,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "SA city mentioned",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "inqaba biotec",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "AzarGen Biotechnologies",
+      "score": 105,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "SA city mentioned",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Immobazyme",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "SA city mentioned",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    }
+  ],
+  "in_scope": [
+    {
+      "company": "HearXGroup",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Resourgenix",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Deimos Cloud",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Balancell Energy",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Evolution Foods International",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Wits university: department of molecular medicine and heamatology",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "SA city mentioned",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Futuregen laboratories",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "CPGR (Diplomics)",
+      "score": 55,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "South Africa mentioned in text",
+        "known SA company (model knowledge)"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Afrigen Biologics (Pty) Ltd",
+      "score": 105,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "SA city mentioned",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Next Biosciences",
+      "score": 105,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "SA city mentioned",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "inqaba biotec",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "AzarGen Biotechnologies",
+      "score": 105,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        ".co.za domain",
+        "SA city mentioned",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Immobazyme",
+      "score": 80,
+      "status": "in_scope",
+      "signals": [
+        "country=South Africa",
+        "SA city mentioned",
+        "South Africa mentioned in text"
+      ],
+      "reject_reason": ""
+    }
+  ],
+  "needs_review": [],
+  "out_of_scope": [
+    {
+      "company": "Carmot Therapeutics (aquired by Roche)",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Phathom Pharmaceuticals",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "IGM Biosciences",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "CND life sciences",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Ventus therapeutics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Enveda",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Forge biologics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "BioCode",
+      "score": 25,
+      "status": "out_of_scope",
+      "signals": [
+        ".co.za domain"
+      ],
+      "reject_reason": ""
+    },
+    {
+      "company": "Foresight",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Acculine",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Elicio Therapeutics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Kyverna Therapeutics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "ECG-Excellence",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Debeut biotech",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Braeburn",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Recora Health",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "ElevateBio",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Heartbeat Health",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Hexagon Bio",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Rayze Bio",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "IntelVasc Inc",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Hemocath",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Cresilon",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Artbio",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Medcura",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Lexeo therapeutics",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Genomenon",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Ardelyx",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Octave",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Yemaachi",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "CSL",
+      "score": -50,
+      "status": "out_of_scope",
+      "signals": [
+        "non-SA HQ detected"
+      ],
+      "reject_reason": "Non-SA HQ keywords detected"
+    },
+    {
+      "company": "Legend Biotech",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "ReCode",
+      "score": -50,
+      "status": "out_of_scope",
+      "signals": [
+        "non-SA HQ detected"
+      ],
+      "reject_reason": "Non-SA HQ keywords detected"
+    },
+    {
+      "company": "Centogene",
+      "score": -50,
+      "status": "out_of_scope",
+      "signals": [
+        "non-SA HQ detected"
+      ],
+      "reject_reason": "Non-SA HQ keywords detected"
+    },
+    {
+      "company": "Biosecurity",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Medtech corporation",
+      "score": 0,
+      "status": "out_of_scope",
+      "signals": [],
+      "reject_reason": ""
+    },
+    {
+      "company": "Watchmaker Genomics",
+      "score": -85,
+      "status": "out_of_scope",
+      "signals": [
+        "South Africa mentioned in text",
+        "non-SA HQ detected",
+        "mis-tagged: HQ Boulder, Colorado, USA"
+      ],
+      "reject_reason": "HQ Boulder, Colorado, USA"
+    }
+  ],
+  "enrichment_queue": [
+    {
+      "company": "Afrigen Biologics (Pty) Ltd",
+      "row": 48,
+      "sa_score": 105,
+      "sa_status": "in_scope",
+      "gap_score": 2,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": [
+        "Company revenue"
+      ]
+    },
+    {
+      "company": "Next Biosciences",
+      "row": 49,
+      "sa_score": 105,
+      "sa_status": "in_scope",
+      "gap_score": 2,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": [
+        "Company revenue"
+      ]
+    },
+    {
+      "company": "AzarGen Biotechnologies",
+      "row": 51,
+      "sa_score": 105,
+      "sa_status": "in_scope",
+      "gap_score": 2,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": [
+        "Company revenue"
+      ]
+    },
+    {
+      "company": "Wits university: department of molecular medicine and heamatology",
+      "row": 41,
+      "sa_score": 80,
+      "sa_status": "in_scope",
+      "gap_score": 2,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": [
+        "Company revenue"
+      ]
+    },
+    {
+      "company": "inqaba biotec",
+      "row": 50,
+      "sa_score": 80,
+      "sa_status": "in_scope",
+      "gap_score": 2,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": [
+        "Company revenue"
+      ]
+    },
+    {
+      "company": "Immobazyme",
+      "row": 52,
+      "sa_score": 80,
+      "sa_status": "in_scope",
+      "gap_score": 2,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": [
+        "Company revenue"
+      ]
+    },
+    {
+      "company": "CPGR (Diplomics)",
+      "row": 46,
+      "sa_score": 55,
+      "sa_status": "in_scope",
+      "gap_score": 2,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": [
+        "Company revenue"
+      ]
+    },
+    {
+      "company": "Evolution Foods International",
+      "row": 8,
+      "sa_score": 80,
+      "sa_status": "in_scope",
+      "gap_score": 0,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": []
+    },
+    {
+      "company": "Futuregen laboratories",
+      "row": 45,
+      "sa_score": 80,
+      "sa_status": "in_scope",
+      "gap_score": 0,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": []
+    },
+    {
+      "company": "HearXGroup",
+      "row": 2,
+      "sa_score": 55,
+      "sa_status": "in_scope",
+      "gap_score": 0,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": []
+    },
+    {
+      "company": "Resourgenix",
+      "row": 3,
+      "sa_score": 55,
+      "sa_status": "in_scope",
+      "gap_score": 0,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": []
+    },
+    {
+      "company": "Deimos Cloud",
+      "row": 4,
+      "sa_score": 55,
+      "sa_status": "in_scope",
+      "gap_score": 0,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": []
+    },
+    {
+      "company": "Balancell Energy",
+      "row": 7,
+      "sa_score": 55,
+      "sa_status": "in_scope",
+      "gap_score": 0,
+      "missing_p1": [],
+      "missing_p2": [],
+      "missing_p3": []
+    }
+  ],
+  "dedup_keys": [
+    "hearxgroup",
+    "resourgenix",
+    "deimoscloud",
+    "carmottherapeuticsaquiredbyroche",
+    "balancellenergy",
+    "evolutionfoodsinternational",
+    "phathompharmaceuticals",
+    "igmbiosciences",
+    "cndlifesciences",
+    "ventustherapeutics",
+    "enveda",
+    "forgebiologics",
+    "biocode",
+    "foresight",
+    "acculine",
+    "eliciotherapeutics",
+    "kyvernatherapeutics",
+    "ecgexcellence",
+    "debeutbiotech",
+    "braeburn",
+    "recorahealth",
+    "elevatebio",
+    "heartbeathealth",
+    "hexagonbio",
+    "rayzebio",
+    "intelvasc",
+    "hemocath",
+    "cresilon",
+    "artbio",
+    "medcura",
+    "lexeotherapeutics",
+    "genomenon",
+    "ardelyx",
+    "octave",
+    "yemaachi",
+    "csl",
+    "legendbiotech",
+    "recode",
+    "witsuniversitydepartmentofmolecularmedicineandheamatology",
+    "centogene",
+    "biosecurity",
+    "medtechcorporation",
+    "futuregenlaboratories",
+    "cpgrdiplomics",
+    "watchmakergenomics",
+    "afrigenbiologicspty",
+    "nextbiosciences",
+    "inqababiotec",
+    "azargenbiotechnologies",
+    "immobazyme"
+  ]
+}

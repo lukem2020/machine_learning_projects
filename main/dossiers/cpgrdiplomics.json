@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "company": "CPGR (Diplomics)",
+    "action": "enrich",
+    "confidence": "high",
+    "sa_validation": "web_confirmed",
+    "sources": [
+      "https://www.cpgr.org.za/about-us/",
+      "https://www.cpgr.org.za/"
+    ],
+    "updated_at": "2026-06-20T09:08:38.097016+00:00"
+  },
+  "fields": {
+    "Company size": {
+      "value": "46",
+      "source": "both"
+    },
+    "Contact Staff member": {
+      "value": "Dr Judith Horn",
+      "source": "both"
+    },
+    "Role in company": {
+      "value": "CEO",
+      "source": "web"
+    },
+    "Profile in company": {
+      "value": "https://www.linkedin.com/company/cpgr",
+      "source": "web"
+    },
+    "Contact detail": {
+      "value": "info@cpgr.org.za; +27 21 447 9813",
+      "source": "web"
+    }
+  }
+}

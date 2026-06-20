@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "company": "AzarGen Biotechnologies",
+    "action": "discover",
+    "confidence": "high",
+    "sa_validation": "web_confirmed",
+    "sources": [
+      "https://www.azargen.co.za/",
+      "https://www.sareco.org/profile/azargen-biotechnologies/"
+    ],
+    "updated_at": "2026-06-20T09:08:38.157549+00:00"
+  },
+  "fields": {
+    "Name of company": {
+      "value": "AzarGen Biotechnologies",
+      "source": "web"
+    },
+    "Country": {
+      "value": "South Africa",
+      "source": "web"
+    },
+    "Sector": {
+      "value": "Biotechnology / Plant-made Pharmaceuticals",
+      "source": "web"
+    },
+    "Web address link": {
+      "value": "https://www.azargen.co.za/",
+      "source": "web"
+    },
+    "What company does": {
+      "value": "Stellenbosch biotech developing human therapeutic proteins using plant bioreactors and synthetic biology; surfactant protein-B and biosimilar antibodies.",
+      "source": "web"
+    },
+    "Company size": {
+      "value": "3-10",
+      "source": "web"
+    },
+    "Contact Staff member": {
+      "value": "Mauritz Venter",
+      "source": "web"
+    },
+    "Role in company": {
+      "value": "Co-founder & CEO",
+      "source": "web"
+    },
+    "Profile in company": {
+      "value": "https://za.linkedin.com/company/azargen-biotechnologies",
+      "source": "web"
+    },
+    "Contact detail": {
+      "value": "cobus@azargen.com; +27 83 589 5707",
+      "source": "web"
+    }
+  }
+}

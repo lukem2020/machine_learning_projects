@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "company": "Watchmaker Genomics",
+    "action": "enrich",
+    "confidence": "medium",
+    "sa_validation": "needs_cipc_review",
+    "reclassify": true,
+    "sources": [
+      "https://www.watchmakergenomics.com/",
+      "https://www.linkedin.com/company/watchmaker-genomics"
+    ]
+  },
+  "fields": {
+    "Country": {
+      "value": "USA",
+      "source": "web"
+    },
+    "Notes": {
+      "value": "[needs review] Pre-flight: HQ appears to be Boulder, Colorado, USA (watchmakergenomics.com). Re-classified from South Africa. Not an SA-based client.",
+      "source": "web"
+    }
+  }
+}

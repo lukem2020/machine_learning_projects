@@ -115,3 +115,7 @@ service_account*.json
 ehthumbs.db
 Thumbs.db
 Desktop.ini
+
+# Data
+data/
+raw/
